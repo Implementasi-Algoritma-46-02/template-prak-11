@@ -5,7 +5,7 @@
       "setup": "javac Jurnal01.java",
       "run": "java Jurnal01",
       "input": "Dira\nRadi\nIdar\n-",
-      "output": "Bulan 1 - Dira\nBulan 2 - Radi\nBulan 3 - Idar",
+      "output": "Bulan 1: Dira\nBulan 2: Radi\nBulan 3: Idar",
       "comparison": "included",
       "timeout": 10,
       "points": 20
@@ -45,7 +45,7 @@
       "setup": "javac TP01.java",
       "run": "java TP01",
       "input": "3\nDira\nRadi\nIdar",
-      "output": "Bulan 1 - Dira\nBulan 2 - Radi\nBulan 3 - Idar",
+      "output": "Bulan 1: Dira\nBulan 2: Radi\nBulan 3: Idar",
       "comparison": "included",
       "timeout": 10,
       "points": 10
